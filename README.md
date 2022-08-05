@@ -2,6 +2,8 @@
 
 [빅콘테스트](https://www.bigcontest.or.kr)
 
+
+- **제주도 쓰레기 배출량을 예측, 배출량 감소 방안 도출**
 - 빅콘테스트 데이터 분석 공모전에 참여해 최우수상 수상(신한카드 대표이사상)
 - 대회기간 : 2021년 8월 3일 ~ 2021년 11월
 - [모델링(STLB) 코드](https://github.com/whdbfla6/STLB/blob/main/module/stlb.py)
